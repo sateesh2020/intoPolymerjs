@@ -1,0 +1,25 @@
+{
+  "name": "intoPolymerjs",
+  "version": "0.0.0",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "description": "R&D on Polymer Js",
+  "keywords": [
+    "polymer"
+  ],
+  "authors": [
+    "satvallu"
+  ],
+  "private": true,
+  "dependencies": {
+    "polymer": "Polymer/polymer#~0.5.1",
+    "core-elements": "Polymer/core-elements#~0.5.1",
+    "paper-elements": "Polymer/paper-elements#~0.5.1"
+  }
+}
